@@ -1,0 +1,35 @@
+{
+  "last_updated": "2026-04-15",
+  "weeks": [
+    {
+      "week": "2026-04-08",
+      "tools": [
+        { "tool": "Cursor", "score": 7.2, "signal_count": 412 },
+        { "tool": "Windsurf", "score": 7.1, "signal_count": 289 },
+        { "tool": "GitHub Copilot", "score": 5.9, "signal_count": 531 },
+        { "tool": "Replit", "score": 5.7, "signal_count": 318 },
+        { "tool": "Devin", "score": 4.9, "signal_count": 204 },
+        { "tool": "Sentry", "score": 6.8, "signal_count": 176 },
+        { "tool": "PostHog", "score": 6.9, "signal_count": 143 },
+        { "tool": "Linear", "score": 7.9, "signal_count": 98 },
+        { "tool": "bolt.new", "score": 6.5, "signal_count": 267 },
+        { "tool": "Vercel v0", "score": 6.4, "signal_count": 189 }
+      ]
+    },
+    {
+      "week": "2026-04-15",
+      "tools": [
+        { "tool": "Cursor", "score": 6.8, "signal_count": 438 },
+        { "tool": "Windsurf", "score": 6.2, "signal_count": 301 },
+        { "tool": "GitHub Copilot", "score": 5.9, "signal_count": 548 },
+        { "tool": "Replit", "score": 5.4, "signal_count": 334 },
+        { "tool": "Devin", "score": 5.1, "signal_count": 218 },
+        { "tool": "Sentry", "score": 7.1, "signal_count": 189 },
+        { "tool": "PostHog", "score": 7.4, "signal_count": 156 },
+        { "tool": "Linear", "score": 7.9, "signal_count": 102 },
+        { "tool": "bolt.new", "score": 6.0, "signal_count": 281 },
+        { "tool": "Vercel v0", "score": 6.5, "signal_count": 201 }
+      ]
+    }
+  ]
+}
