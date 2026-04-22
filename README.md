@@ -1,45 +1,35 @@
-# 🧠 AI DevTools Sentiment Tracker
+# 🔍 AI DevTools Sentiment — Weekly Community Pulse
 
-Weekly community sentiment analysis for the most-used AI developer tools.
-Data sourced from Reddit, Hacker News, and Twitter/X.
+[![Made with ❤️ by Murmure](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by-Murmure-111827)](https://murmure.cc)
 
-Built by [Murmure](https://murmure.cc) — community intelligence for AI devtools.
+We track Reddit, Hacker News, and GitHub Issues weekly to surface what developers actually think about AI devtools. Published free on [murmure.cc](https://murmure.cc).
 
-## 📊 Latest Sentiment Snapshot (Week of April 15, 2026)
+## Last updated: April 17, 2026
 
-| Tool | Sentiment Score | Trend | Top Complaint | Top Praise |
-|------|----------------|-------|---------------|------------|
-| Cursor | 6.8/10 | ⬇️ -0.4 | Kimi K2.5 model swap (undisclosed) | Best autocomplete in class |
-| Windsurf | 6.2/10 | ⬇️ -0.9 | OpenAI acquisition anxiety | Fast, clean UI |
-| GitHub Copilot | 5.9/10 | → 0.0 | Generic suggestions | Enterprise trust |
-| Replit | 5.4/10 | ⬇️ -0.3 | Pricing hikes | Easiest onboarding |
-| Devin | 5.1/10 | ⬆️ +0.2 | Overhyped vs reality | Handles long tasks |
-| Sentry | 7.1/10 | ⬆️ +0.3 | Alert fatigue | Best error context |
-| PostHog | 7.4/10 | ⬆️ +0.5 | Complex setup | Most loved OSS tool |
-| Linear | 7.9/10 | → 0.0 | No time tracking | Design quality |
-| bolt.new | 6.0/10 | ⬇️ -0.5 | Context window limits | Speed of prototyping |
-| Vercel v0 | 6.5/10 | ⬆️ +0.1 | Component lock-in | Output quality |
+## Week 2 Snapshot
 
-> Data updated weekly. See `/data/` for raw JSON.
+| Tool | Sentiment Score | Delta | Top Complaint | Top Praise |
+|------|-----------------|-------|---------------|------------|
+| Cursor | 79/100 | -3 | Auto mode regressions + Kimi K2.5 controversy | Tab completion accuracy |
+| Windsurf | 71/100 | -3 | Post-acquisition trust gap | Cascade agentic flow |
+| GitHub Copilot | 71/100 | 0 | Agent Mode quality vs Cursor | VS Code deep integration |
+| Continue.dev | 70/100 | +1 | Setup complexity | Open source flexibility |
+| Cody (Sourcegraph) | 65/100 | 0 | Accuracy vs Cursor | Codebase-wide context |
+| Replit AI | 65/100 | -2 | Reliability on large projects | Instant browser environment |
+| Dify | 63/100 | +2 | Self-hosting documentation | No-code workflow builder |
+| Devin | 56/100 | -2 | $500/mo pricing | Complex multi-step task handling |
+| Tabnine | 55/100 | 0 | Quality vs Cursor/Copilot | Privacy-first on-prem option |
+| Amazon Q Developer | 49/100 | 0 | Clunky UI vs competitors | AWS integration |
 
-## 📁 Repository Structure
+Week 2 update: Cursor -3, Windsurf -3 (acquisition uncertainty), Dify +2. Full leaderboard at [murmure.cc/pulse](https://murmure.cc/pulse).
 
-/data/ sentiment-history.json ← Weekly snapshots (all tools) /methodology.md ← How we score sentiment /CONTRIBUTING.md ← Request a tool analysis
+## How It Works
 
-## 🔍 Full Reports
+- Reddit: recurring praise, complaints, and switching behavior from developer subreddits.
+- Hacker News: launch reactions, comparisons, and power-user feedback.
+- GitHub Issues: product friction, regressions, and documentation pain points.
 
-We publish deep-dive community reports (Reddit threads, HN comments, tweet sentiment) for each tool:
+> [!NOTE]
+> Want your tool analyzed? → [Request a custom report](https://murmure.cc/request-report) — $99, 48-hour delivery
 
-- [Cursor Report](https://murmure.cc/reports/cursor)
-- [Windsurf Report](https://murmure.cc/reports/windsurf)
-- [GitHub Copilot Report](https://murmure.cc/reports/github-copilot)
-- [Replit Report](https://murmure.cc/reports/replit)
-- [PostHog Report](https://murmure.cc/reports/posthog)
-- [Sentry Report](https://murmure.cc/reports/sentry)
-- [Linear Report](https://murmure.cc/reports/linear)
-
-👉 **Want a report for your tool?** [Open an issue](https://github.com/murmurecc/ai-devtools-sentiment/issues/new?template=request_analysis.md) or visit [murmure.cc/request-report](https://murmure.cc/request-report)
-
-## 📬 Stay Updated
-
-Subscribe to weekly updates at **[murmure.cc](https://murmure.cc)**
+Star ⭐ to follow weekly updates.

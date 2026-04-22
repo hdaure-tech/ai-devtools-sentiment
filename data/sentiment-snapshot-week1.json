@@ -1,0 +1,86 @@
+{
+  "week": "2025-W15",
+  "generated_at": "2025-04-14",
+  "tools": [
+    {
+      "name": "Cursor",
+      "score": 72,
+      "top_complaint": "Context window limits",
+      "top_praise": "Best autocomplete in class",
+      "sources": ["reddit", "hackernews", "github_issues"],
+      "report_url": "https://murmure.cc"
+    },
+    {
+      "name": "GitHub Copilot",
+      "score": 61,
+      "top_complaint": "Outdated suggestions",
+      "top_praise": "Native IDE integration",
+      "sources": ["reddit", "hackernews", "github_issues"],
+      "report_url": "https://murmure.cc"
+    },
+    {
+      "name": "Windsurf",
+      "score": 68,
+      "top_complaint": "Stability issues",
+      "top_praise": "Fast generation speed",
+      "sources": ["reddit", "hackernews", "discord"],
+      "report_url": "https://murmure.cc"
+    },
+    {
+      "name": "Replit",
+      "score": 58,
+      "top_complaint": "Pricing complaints",
+      "top_praise": "Best for beginners",
+      "sources": ["reddit", "hackernews", "discord"],
+      "report_url": "https://murmure.cc"
+    },
+    {
+      "name": "Vercel v0",
+      "score": 70,
+      "top_complaint": "Limited customization",
+      "top_praise": "Instant UI prototyping",
+      "sources": ["reddit", "hackernews", "github_issues"],
+      "report_url": "https://murmure.cc"
+    },
+    {
+      "name": "Devin",
+      "score": 54,
+      "top_complaint": "Over-hyped claims",
+      "top_praise": "Impressive autonomous tasks",
+      "sources": ["reddit", "hackernews", "discord"],
+      "report_url": "https://murmure.cc"
+    },
+    {
+      "name": "PostHog",
+      "score": 74,
+      "top_complaint": "Setup complexity",
+      "top_praise": "Best open-source analytics",
+      "sources": ["reddit", "hackernews", "github_issues"],
+      "report_url": "https://murmure.cc"
+    },
+    {
+      "name": "Sentry",
+      "score": 66,
+      "top_complaint": "Alert fatigue",
+      "top_praise": "Error tracking depth",
+      "sources": ["reddit", "hackernews", "github_issues"],
+      "report_url": "https://murmure.cc"
+    },
+    {
+      "name": "Linear",
+      "score": 78,
+      "top_complaint": "Missing time tracking",
+      "top_praise": "Fastest PM tool",
+      "sources": ["reddit", "hackernews", "github_issues"],
+      "report_url": "https://murmure.cc"
+    },
+    {
+      "name": "bolt.new",
+      "score": 63,
+      "top_complaint": "Credit system frustrating",
+      "top_praise": "Fastest scaffolding",
+      "sources": ["reddit", "hackernews", "discord"],
+      "report_url": "https://murmure.cc"
+    }
+  ]
+}

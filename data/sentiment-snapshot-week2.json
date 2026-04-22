@@ -1,0 +1,86 @@
+{
+  "week": "2026-W16",
+  "generated_at": "2026-04-17",
+  "tools": [
+    {
+      "name": "Cursor",
+      "score": 79,
+      "delta": -3,
+      "top_complaint": "Auto mode regressions + Kimi K2.5 controversy",
+      "top_praise": "Tab completion accuracy",
+      "sources": ["reddit", "hackernews", "github_issues"]
+    },
+    {
+      "name": "Windsurf",
+      "score": 71,
+      "delta": -3,
+      "top_complaint": "Post-acquisition trust gap",
+      "top_praise": "Cascade agentic flow",
+      "sources": ["reddit", "hackernews"]
+    },
+    {
+      "name": "GitHub Copilot",
+      "score": 71,
+      "delta": 0,
+      "top_complaint": "Agent Mode quality vs Cursor",
+      "top_praise": "VS Code deep integration",
+      "sources": ["reddit", "hackernews"]
+    },
+    {
+      "name": "Continue.dev",
+      "score": 70,
+      "delta": 1,
+      "top_complaint": "Setup complexity",
+      "top_praise": "Open source flexibility",
+      "sources": ["reddit"]
+    },
+    {
+      "name": "Dify",
+      "score": 63,
+      "delta": 2,
+      "top_complaint": "Self-hosting documentation",
+      "top_praise": "No-code workflow builder",
+      "sources": ["reddit", "github_issues"]
+    },
+    {
+      "name": "Cody (Sourcegraph)",
+      "score": 65,
+      "delta": 0,
+      "top_complaint": "Accuracy vs Cursor",
+      "top_praise": "Codebase-wide context",
+      "sources": ["reddit"]
+    },
+    {
+      "name": "Devin",
+      "score": 56,
+      "delta": -2,
+      "top_complaint": "$500/mo pricing",
+      "top_praise": "Complex multi-step task handling",
+      "sources": ["reddit", "hackernews"]
+    },
+    {
+      "name": "Replit AI",
+      "score": 65,
+      "delta": -2,
+      "top_complaint": "Reliability on large projects",
+      "top_praise": "Instant browser environment",
+      "sources": ["reddit"]
+    },
+    {
+      "name": "Tabnine",
+      "score": 55,
+      "delta": 0,
+      "top_complaint": "Quality vs Cursor/Copilot",
+      "top_praise": "Privacy-first on-prem option",
+      "sources": ["reddit"]
+    },
+    {
+      "name": "Amazon Q Developer",
+      "score": 49,
+      "delta": 0,
+      "top_complaint": "Clunky UI vs competitors",
+      "top_praise": "AWS integration",
+      "sources": ["reddit", "hackernews"]
+    }
+  ]
+}
