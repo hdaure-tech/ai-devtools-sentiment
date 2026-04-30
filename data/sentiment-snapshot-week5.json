@@ -1,0 +1,110 @@
+{
+  "week": "2026-W19",
+  "generated_at": "2026-05-04",
+  "tools": [
+    {
+      "name": "Linear",
+      "score": 78,
+      "delta": 0,
+      "top_complaint": "Reporting depth vs Jira",
+      "top_praise": "Speed + keyboard-first UX",
+      "sources": ["reddit", "hackernews", "github_issues"]
+    },
+    {
+      "name": "GitHub Copilot",
+      "score": 74,
+      "delta": 3,
+      "top_complaint": "Still weaker than Cursor on open-ended edits",
+      "top_praise": "VS Code agent mode + deep integration",
+      "sources": ["reddit", "hackernews", "github_issues"]
+    },
+    {
+      "name": "Argil",
+      "score": 73,
+      "delta": 1,
+      "top_complaint": "Thin organic proof + premium pricing",
+      "top_praise": "Fast creator workflow",
+      "sources": ["reddit", "hackernews", "product_hunt"]
+    },
+    {
+      "name": "Sentry",
+      "score": 71,
+      "delta": 1,
+      "top_complaint": "Alert fatigue + self-hosting complexity",
+      "top_praise": "Error tracking depth",
+      "sources": ["reddit", "hackernews", "github_issues"]
+    },
+    {
+      "name": "PostHog",
+      "score": 67,
+      "delta": -1,
+      "top_complaint": "Product sprawl + pricing creep",
+      "top_praise": "Fast shipping + all-in-one analytics",
+      "sources": ["reddit", "hackernews", "github_issues"]
+    },
+    {
+      "name": "Vercel v0",
+      "score": 67,
+      "delta": 1,
+      "top_complaint": "Preview glitches + credit limits",
+      "top_praise": "Fast UI generation",
+      "sources": ["reddit", "hackernews", "github_issues"]
+    },
+    {
+      "name": "Replit",
+      "score": 64,
+      "delta": -3,
+      "top_complaint": "Mobile app regressions + reliability on larger projects",
+      "top_praise": "Instant browser environment",
+      "sources": ["reddit", "hackernews", "discord"]
+    },
+    {
+      "name": "Cursor",
+      "score": 63,
+      "delta": 2,
+      "top_complaint": "Trust still below the pre-Kimi baseline",
+      "top_praise": "Tab completion accuracy",
+      "sources": ["reddit", "hackernews", "github_issues"]
+    },
+    {
+      "name": "Dify",
+      "score": 62,
+      "delta": 1,
+      "top_complaint": "Self-hosting docs + upgrade friction",
+      "top_praise": "MCP + workflow builder",
+      "sources": ["reddit", "github_issues"]
+    },
+    {
+      "name": "Harness",
+      "score": 60,
+      "delta": 0,
+      "top_complaint": "Implementation weight + price",
+      "top_praise": "Approval-heavy CD controls",
+      "sources": ["reddit", "hackernews", "github_issues"]
+    },
+    {
+      "name": "Windsurf",
+      "score": 58,
+      "delta": 0,
+      "top_complaint": "Acquisition uncertainty + plan confusion",
+      "top_praise": "Cascade agentic flow",
+      "sources": ["reddit", "hackernews"]
+    },
+    {
+      "name": "Devin",
+      "score": 52,
+      "delta": -2,
+      "top_complaint": "Pricing transparency + tier lock-in",
+      "top_praise": "Complex multi-step handling",
+      "sources": ["reddit", "hackernews"]
+    },
+    {
+      "name": "bolt.new",
+      "score": 52,
+      "delta": 0,
+      "top_complaint": "Token ceilings + weak production confidence",
+      "top_praise": "Fast full-stack scaffolding",
+      "sources": ["reddit", "hackernews", "discord"]
+    }
+  ]
+}
